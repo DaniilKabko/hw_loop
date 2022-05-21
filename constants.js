@@ -1,1 +1,1 @@
-const SECRET_NUMBER = 28;
+const SECRET_NUMBER = 6;
